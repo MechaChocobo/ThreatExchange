@@ -1,4 +1,4 @@
-# Contributing to Hasher Matcher Actioner (now with Open Media Match)
+# Contributing to Hasher Matcher Actioner
 
 Thanks for your interest in contributing to Hasher Matcher Actioner! Contributions from the community are essential to the success of this project, and we aim to make it as easy as possible for anyone to hack on Hasher Matcher Actioner and contribute code back.
 
